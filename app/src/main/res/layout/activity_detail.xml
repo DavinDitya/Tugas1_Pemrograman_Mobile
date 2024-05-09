@@ -48,19 +48,4 @@
         android:text="Convert"
         android:layout_marginTop="20dp"/>
 
-
-
-    <!-- Tambahkan blok kode baru di bawah ini -->
-    <!-- activity_detail.xml -->
-    <LinearLayout
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        android:id="@+id/main"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="vertical">
-
-        <!-- Your other views here -->
-
-    </LinearLayout>
-
 </LinearLayout>
